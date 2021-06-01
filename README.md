@@ -1,6 +1,6 @@
 # Entry_Control_with_Face_Mask_Detection
 
-WIX3001 Individual Assignment
+WIX3001 Individual Assignment (Chua Shi Xian 17076685/1)
 
 Dataset Source:
 
