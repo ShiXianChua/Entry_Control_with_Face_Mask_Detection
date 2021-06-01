@@ -7,7 +7,7 @@ https://github.com/cabani/MaskedFace-Net
 
 Create a folder "Dataset" and two subfolders "CMFD" and "IMFD". Then upload images from the dataset source into them.
 
-Run train_mask_detector and then detect_mask_camera
+Run train_mask_detector and then detect_mask_camera.
 
 
 
